@@ -1,2 +1,2 @@
 # Aes_encryption
-Encrypting algo
+Encrypting algorithm
